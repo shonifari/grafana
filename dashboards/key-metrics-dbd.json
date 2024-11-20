@@ -643,8 +643,8 @@
       "list": []
     },
     "time": {
-      "from": "2024-11-19T12:59:13.572Z",
-      "to": "2024-11-19T14:48:05.137Z"
+      "from": "now-15m",
+      "to": "now"
     },
     "timepicker": {},
     "timezone": "browser",
